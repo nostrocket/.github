@@ -4,6 +4,8 @@ A Nostrocket client is a state machine that subscribes to a Nostrocket thread an
 
 Different parts of the state machine can run in different places, e.g. much of the state can be rebuilt directly in the browser, but computationally heavy operations like indexing a large number of nostr events or validating the Bitcoin blockchain (some parts of the protocol also require knowledge of the current state of Bitcoin) are better done closer to the metal and can utilize DVMs etc.
 
-[Oxygen](https://github.com/nostrocket/oxygen) is in active development. This builds a subjective view of Nostrocket state in the browser.   
-[NIPs](https://github.com/nostrocket/NIPS).   
-[Consensus and state transitions](https://github.com/nostrocket/NIPS/blob/main/state.md) to understand consensus and state transitions.
+[Oxygen](https://github.com/nostrocket/oxygen) is a client-side-only implementation in active development. This is currently the best way to interact with Nostrocket.
+
+[NIPs](https://github.com/nostrocket/NIPS)  
+
+[A word about consensus and state transitions](https://github.com/nostrocket/NIPS/blob/main/state.md).
