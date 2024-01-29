@@ -1,4 +1,5 @@
 ## Nostrocket!
+*Separation of Business and State*
 
 A Nostrocket client is a state machine that subscribes to a Nostrocket thread and parses events against the protocol, rebuilding the current state of the rocket. 
 
