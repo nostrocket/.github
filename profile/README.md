@@ -1,9 +1,10 @@
 ## Nostrocket!
-*Separation of Business and State*
 
-A Nostrocket client is a state machine that subscribes to a Nostrocket thread and parses events against the protocol, rebuilding the current state of the rocket. 
+There's no such thing as a "Bitcoin company". A Bitcoin company is a branch of the State. That's why companies like Strike, Unchained, and River have compliance departments.
 
-Different parts of the state machine can run in different places, e.g. much of the state can be rebuilt directly in the browser, but computationally heavy operations like indexing a large number of nostr events or validating the Bitcoin blockchain (some parts of the protocol also require knowledge of the current state of Bitcoin) are better done closer to the metal and can utilize DVMs etc.
+The reformation gave us separation of Church and State, and Bitcoin gives us separation of Money and State. But we don't (yet) have separation of Business and State.
+
+There are many aspects to separation of Business and State. Nostrocket is an experiment in bypassing legacy company structures by connecting proof of "work" directly to ownership of a commercial interest using nothing but nostr + bitcoin.
 
 [Oxygen](https://github.com/nostrocket/oxygen) is a client-side-only implementation in active development. This is currently the best way to interact with Nostrocket.
 
