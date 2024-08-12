@@ -1,9 +1,9 @@
 ## Nostrocket!
 <img width="500" alt="Screenshot 2024-08-12 at 8 19 32 PM" src="https://github.com/user-attachments/assets/272dd749-cd22-4cce-a4b3-506b3a5d3e35">
 
-Bitcoin's **entire** value proposition is that it cannot be controlled by the State. It has **no value** beyond this.
-
 ### What companies call "Bitcoin" is **not** Bitcoin. 
+
+Recall that Bitcoin's **entire** value proposition is that it **cannot** be controlled by the State. It has **no value** beyond this.
 
 If you use Bitcoin as a company, your Bitcoin activity is governed by the State (this is why "Bitcoin" companies like Strike, River, Unchained etc have compliance teams).
 
