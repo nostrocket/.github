@@ -9,9 +9,9 @@ If you use Bitcoin as a company, your Bitcoin activity is governed by the State 
 
 Bitcoin is permissionless, it doesn’t need KYC and you can send money to anyone on the planet (even if they're on the OFAC list). 
 
-What companies call "Bitcoin" is permissioned by the State. If you own/run/work for a company and don't believe me, I have friends on the OFAC list and I'd be happy to give you addresses for a few of them so you can prove me wrong by transacting with them.    
+What companies call "Bitcoin" is permissioned by the State (if you own/run/work for a company and don't believe me, I have friends on the OFAC list and I'd be happy to give you addresses for a few of them so you can prove me wrong by transacting with them).   
 
-The State-permissioned fork that companies call "Bitcoin" is mostly interoperable with genuine Bitcoin right now, but this fork will become more regulated and the regulations will become more strictly enforced as we go deeper into [phase two of Bitcoin's war against the State](https://www.youtube.com/watch?v=X_xgmVLyB94).
+The State-permissioned "fork" that companies call "Bitcoin" is mostly interoperable with genuine Bitcoin right now, but this fork will become more regulated as Bitcoin increasingly threatens the status quo, and the regulations will become more strictly enforced as we proceed deeper into [phase two of Bitcoin's war against the State](https://www.youtube.com/watch?v=X_xgmVLyB94).
 
 ### The Solution: Separation of Business from State. 
 
